@@ -1,5 +1,5 @@
 # Code_refractor
-Refactoring Horoseo webpage to meet accessibility standards.
+Refactoring Horiseo webpage to meet accessibility standards.
 
 
 ## User Story
