@@ -13,6 +13,6 @@ SO THAT our own site is optimized for search engines
 
 ```
 Replaced non-semantic elements by semantic elements to clearly define contents
-Allowed the elements organization to dispaly a well structured code
+Allowed theof organization of elements to dispaly a well structured code
 Used the image alt attribute to provides alternate texts for an images
 Title modified to be more descriptive
