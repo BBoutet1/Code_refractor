@@ -1,4 +1,4 @@
-# Code_refractor
+# Code_refactor
 Refactoring Horiseo webpage to meet accessibility standards.
 
 
